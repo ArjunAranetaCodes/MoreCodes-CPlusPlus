@@ -1,0 +1,25 @@
+/*
+Arjun C. Araneta
+more-codes.com
+
+Write a program that has a function that accepts a name and concatenates 
+it to "Hello ". 
+
+Output:
+
+Hello Mark
+*/
+
+#include<iostream>
+
+using namespace std;
+
+void PrintHello(string strName){
+	cout << "Hello " << strName;
+}
+
+int main(){
+	PrintHello("Mark");
+	
+	return 0;
+}
