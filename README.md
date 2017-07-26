@@ -1,5 +1,5 @@
 # MoreCodes - C Plus Plus (C++) Programming Problems
-This repository is for Visual Basic codes of my blog: https://more-codes.com/
+This repository is for C Plus Plus (C++) codes of my blog: https://more-codes.com/
 
 1. Basic Output
 2. Variables
